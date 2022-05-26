@@ -6,12 +6,7 @@
   gap: 20px;
 }
 
-.fpItem{
-  flex: 1;
-  gap: 10px;
-  display: flex;
-  flex-direction: column;
-}
+
 
 .fpImg{
   width: 100%;
@@ -43,4 +38,11 @@
 
 .fpRating>span{
   font-size: 14px;
+}
+
+.fpItem{
+  flex: 1;
+  gap: 10px;
+  display: flex;
+  flex-direction: column;
 }
